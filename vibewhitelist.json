@@ -8,6 +8,13 @@
     },
     {
         "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmZveGl0Lm1vYmlsZS5wZGYubGl0ZV9pY29uXzE1MzA4NTU0MjVfMDA4/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Foxit PDF",
+        "package": "com.adobe.reader",
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+    },
+    {
+        "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Asana",
         "package": "com.asana.app",
