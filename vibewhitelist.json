@@ -1,0 +1,149 @@
+[
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmFkb2JlLnJlYWRlcl9pY29uXzE1MjM5NjQ3MjRfMDU2/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Acrobat Reader",
+        "package": "com.adobe.reader",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmFkb2JlLnJlYWRlcl8xODI5MzVfMzViYzlmNWE?_fn=QWRvYmUgQWNyb2JhdCBSZWFkZXJfdjE4LjIuMC4xODI5MzVfYXBrcHVyZS5jb20uYXBr&k=872a6b8248c734b7f4d592104d2c56755b961396&as=c3c18786f43b6241ee6ade69fd574c655b93710e&_p=Y29tLmFkb2JlLnJlYWRlcg&c=1%7CPRODUCTIVITY%7CZGV2PUFkb2JlJnZuPTE4LjIuMC4xODI5MzUmdmM9MTgyOTM1"
+    },
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Asana",
+        "package": "com.asana.app",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmFzYW5hLmFwcF82MDYwMzAwX2YyZmI0Yjk4?_fn=QXNhbmEgb3JnYW5pemUgdGVhbSBwcm9qZWN0c192Ni42LjNfYXBrcHVyZS5jb20uYXBr&k=c4aea101c4692b65abefa389a7a40e665b96143f&as=92dbed6803ec7a49da68ff214e2f060e5b9371b7&_p=Y29tLmFzYW5hLmFwcA&c=1%7CBUSINESS%7CZGV2PUFzYW5hJTJDJTIwSW5jLiZ2bj02LjYuMyZ2Yz02MDYwMzAw"
+    },
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzX2ljb25fMTUzNTA1NjcxOF8wODk/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Webex",
+        "package": "com.cisco.webex.meetings",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzXzIxMTIwMTY1Xzg1NWNjMTBm?_fn=Q2lzY28gV2ViZXggTWVldGluZ3NfdjExLjIuMF9hcGtwdXJlLmNvbS5hcGs&k=709559271a6b18a5b2a1fe4a7a0fc6a45b961498&as=d2e0381bca254c74cc86f12faacc2d945b937210&_p=Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdz&c=1%7CBUSINESS%7CZGV2PUNpc2NvJTIwU3lzdGVtcyUyQyUyMEluYy4mdm49MTEuMi4wJnZjPTIxMTIwMTY1"
+    },
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1X2ljb25fMTUzMzU4MTI2OF8wOTc/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Skype for Business",
+        "package": "com.microsoft.office.lync15",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1XzEwMjAzOTU2OV8zZDllNjU0MA?_fn=U2t5cGUgZm9yIEJ1c2luZXNzIGZvciBBbmRyb2lkX3Y2LjIxLjAuMTdfYXBrcHVyZS5jb20uYXBr&k=8db4ea9e4861aa44c8a909be29e43c9a5b96150f&as=e094150230e881634bb7c6fa7637012b5b937287&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1&c=1%7CBUSINESS%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTYuMjEuMC4xNyZ2Yz0xMDIwMzk1Njk"
+    },
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1X2ljb25fMTUzMzU4MTI2OF8wOTc/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Skype",
+        "package": "com.skype.raider",
+        "url": "https://media.githubusercontent.com/media/InlightInteractive/VibeWhiteList/master/apks/com.skype.raider_8.15.0.195.apk"
+    },
+    {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3gucGFwZXJfaWNvbl8xNTM1NDg1OTU2XzA4Mg/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "DropBox Paper",
+        "package": "com.dropbox.paper",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmRyb3Bib3gucGFwZXJfMTEwMTA0MDBfMzdkZWI2N2Q?_fn=RHJvcGJveCBQYXBlcl92MTEwLjEuNF9hcGtwdXJlLmNvbS5hcGs&k=2649657d295e9b3eec1d58f0beca26975b9615e7&as=a3081452c2c994a2ca03a239f03356f45b93735f&_p=Y29tLmRyb3Bib3gucGFwZXI&c=1%7CPRODUCTIVITY%7CZGV2PURyb3Bib3glMkMlMjBJbmMuJnZuPTExMC4xLjQmdmM9MTEwMTA0MDA"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3guYW5kcm9pZF9pY29uXzE1MzYzODY5NTZfMDIx/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "DropBox",
+        "package": "com.dropbox.android",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmRyb3Bib3guYW5kcm9pZF8xMTAyMDQwMF84NWI1YzE1NA?_fn=RHJvcGJveF92MTEwLjIuNF9hcGtwdXJlLmNvbS5hcGs&k=97b951c3f437d83ccc3aa75f085970c85b9615ec&as=b780d950028433480481684f59fc2e485b937364&_p=Y29tLmRyb3Bib3guYW5kcm9pZA&c=1%7CPRODUCTIVITY%7CZGV2PURyb3Bib3glMkMlMjBJbmMuJnZuPTExMC4yLjQmdmM9MTEwMjA0MDA"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "AirReceiverLite",
+        "package": "com.softmedia.receiver.lite",
+        "url": "http://dl.dlandroid.com/apps/AirReceiver[dlandroid.com].apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    }
+]
