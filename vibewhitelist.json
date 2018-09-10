@@ -57,10 +57,10 @@
     },
 	{
         "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/shadowsocks.apk"
+        "icon": "https://image.winudf.com/v2/image/dXMuem9vbS52aWRlb21lZXRpbmdzX2ljb25fMTUzNTY5MTQ1OV8wOTg/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "ZOOM",
+        "package": "us.zoom.videomeetings",
+        "url": "https://download.apkpure.com/b/apk/dXMuem9vbS52aWRlb21lZXRpbmdzXzQxMDE2X2ExN2FmNDE0?_fn=Wk9PTSBDbG91ZCBNZWV0aW5nc192NC4xLjMwNDQ1LjA4MjBfYXBrcHVyZS5jb20uYXBr&k=68bb5178c87d15aa97291a3acf0cf6395b989862&as=d23bf79e21f39f350c99eb01f64b113e5b95f5da&_p=dXMuem9vbS52aWRlb21lZXRpbmdz&c=1%7CBUSINESS%7CZGV2PXpvb20udXMmdm49NC4xLjMwNDQ1LjA4MjAmdmM9NDEwMTY"
     },
 	{
         "type": "native",
