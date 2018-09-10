@@ -32,7 +32,7 @@
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1X2ljb25fMTUzMzU4MTI2OF8wOTc/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Skype",
         "package": "com.skype.raider",
-        "url": "https://media.githubusercontent.com/media/InlightInteractive/VibeWhiteList/master/apks/com.skype.raider_8.15.0.195.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/com.skype.raider_8.15.0.195.apk"
     },
     {
         "type": "native",
@@ -51,16 +51,16 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "AirReceiverLite",
-        "package": "com.softmedia.receiver.lite",
-        "url": "http://dl.dlandroid.com/apps/AirReceiver[dlandroid.com].apk"
+        "name": "AirReceiver",
+        "package": "com.softmedia.receiver",
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
     },
 	{
         "type": "native",
         "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
         "name": "shadowsocks",
         "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/shadowsocks.apk"
     },
 	{
         "type": "native",
