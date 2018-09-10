@@ -60,63 +60,63 @@
         "icon": "https://cdn6.aptoide.com/imgs/0/6/8/0683bc631645c6da92678b922290fe57_icon.png?w=120",
         "name": "Cast Receiver",
         "package": "com.softmedia.receiver.castapp",
-        "url":"https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url":"https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/castreceiver.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9wX2ljb25fMTUzNTYyODY4Ml8wMDc/icon.png?w=170&fakeurl=1&type=.png",
         "name": "ES File Explorer",
         "package": "com.estrongs.android.pop",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ES%20File%20Explorer%20File%20Manager_v4.1.8.2.2_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyX2ljb25fMTUzNjE2NzY2NF8wMjE/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Calendar",
         "package": "com.google.android.calendar",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Calendar_v5.8.44-208015756-release_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTUzNjI5MTUwOF8wMTY/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Chrome",
         "package": "com.android.chrome",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Chrome%20Fast%20Secure_v68.0.3440.70_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jc19pY29uXzE1MzYwNzI4MTlfMDQy/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Drive",
         "package": "com.google.android.apps.docs",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Drive_v2.18.312.01.35_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLnRhbGtfaWNvbl8xNTMzNzU1MDc1XzA4Nw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Hangouts",
         "package": "com.google.android.talk",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Hangouts_v26.0.205315597_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLmRvY3NfaWNvbl8xNTM2MDgxNDA3XzA2NQ/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Docs",
         "package": "com.google.android.apps.docs.editors.docs",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Docs_v1.18.312.05.34_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNoZWV0c19pY29uXzE1MzYwOTAxMDdfMDQ1/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Sheets",
         "package": "com.google.android.apps.docs.editors.sheets",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Sheets_v1.18.312.03.35_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNsaWRlc19pY29uXzE1MzYwODEyNzRfMDgx/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Slides",
         "package": "com.google.android.apps.docs.editors.slides",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Slides_v1.18.312.02.30_apkpure.com.apk"
     },
 	{
         "type": "native",
@@ -130,7 +130,7 @@
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvdG9tZWV0aW5nX2ljb25fMTUzNDE1NTU0Nl8wODI/icon.png?w=170&fakeurl=1&type=.png",
         "name": "GoToMeeting",
         "package": "com.gotomeeting",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/GoToMeeting_v2.9.0.1.apk"
     },
 	{
         "type": "native",
