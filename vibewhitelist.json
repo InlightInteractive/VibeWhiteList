@@ -4,21 +4,28 @@
         "icon": "https://image.winudf.com/v2/image/Y29tLmFkb2JlLnJlYWRlcl9pY29uXzE1MjM5NjQ3MjRfMDU2/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Acrobat",
         "package": "com.adobe.reader",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmFkb2JlLnJlYWRlcl8xODI5MzVfMzViYzlmNWE?_fn=QWRvYmUgQWNyb2JhdCBSZWFkZXJfdjE4LjIuMC4xODI5MzVfYXBrcHVyZS5jb20uYXBr&k=872a6b8248c734b7f4d592104d2c56755b961396&as=c3c18786f43b6241ee6ade69fd574c655b93710e&_p=Y29tLmFkb2JlLnJlYWRlcg&c=1%7CPRODUCTIVITY%7CZGV2PUFkb2JlJnZuPTE4LjIuMC4xODI5MzUmdmM9MTgyOTM1"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
     {
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Asana",
         "package": "com.asana.app",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmFzYW5hLmFwcF82MDYwMzAwX2YyZmI0Yjk4?_fn=QXNhbmEgb3JnYW5pemUgdGVhbSBwcm9qZWN0c192Ni42LjNfYXBrcHVyZS5jb20uYXBr&k=c4aea101c4692b65abefa389a7a40e665b96143f&as=92dbed6803ec7a49da68ff214e2f060e5b9371b7&_p=Y29tLmFzYW5hLmFwcA&c=1%7CBUSINESS%7CZGV2PUFzYW5hJTJDJTIwSW5jLiZ2bj02LjYuMyZ2Yz02MDYwMzAw"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Asana%20organize%20team%20projects_v6.5.2_apkpure.com.apk"
+    },
+	   {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "AirReceiver",
+        "package": "com.softmedia.receiver",
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
     },
     {
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzX2ljb25fMTUzNTA1NjcxOF8wODk/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Webex",
         "package": "com.cisco.webex.meetings",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzXzIxMTIwMTY1Xzg1NWNjMTBm?_fn=Q2lzY28gV2ViZXggTWVldGluZ3NfdjExLjIuMF9hcGtwdXJlLmNvbS5hcGs&k=709559271a6b18a5b2a1fe4a7a0fc6a45b961498&as=d2e0381bca254c74cc86f12faacc2d945b937210&_p=Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdz&c=1%7CBUSINESS%7CZGV2PUNpc2NvJTIwU3lzdGVtcyUyQyUyMEluYy4mdm49MTEuMi4wJnZjPTIxMTIwMTY1"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Cisco%20Webex%20Meetings_v11.1.0_apkpure.com.apk"
     },
     {
         "type": "native",
@@ -32,154 +39,147 @@
         "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3gucGFwZXJfaWNvbl8xNTM1NDg1OTU2XzA4Mg/icon.png?w=170&fakeurl=1&type=.png",
         "name": "DropBox Paper",
         "package": "com.dropbox.paper",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmRyb3Bib3gucGFwZXJfMTEwMTA0MDBfMzdkZWI2N2Q?_fn=RHJvcGJveCBQYXBlcl92MTEwLjEuNF9hcGtwdXJlLmNvbS5hcGs&k=2649657d295e9b3eec1d58f0beca26975b9615e7&as=a3081452c2c994a2ca03a239f03356f45b93735f&_p=Y29tLmRyb3Bib3gucGFwZXI&c=1%7CPRODUCTIVITY%7CZGV2PURyb3Bib3glMkMlMjBJbmMuJnZuPTExMC4xLjQmdmM9MTEwMTA0MDA"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Dropbox%20Paper_v108.1.2_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3guYW5kcm9pZF9pY29uXzE1MzYzODY5NTZfMDIx/icon.png?w=170&fakeurl=1&type=.png",
         "name": "DropBox",
         "package": "com.dropbox.android",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmRyb3Bib3guYW5kcm9pZF8xMTAyMDQwMF84NWI1YzE1NA?_fn=RHJvcGJveF92MTEwLjIuNF9hcGtwdXJlLmNvbS5hcGs&k=97b951c3f437d83ccc3aa75f085970c85b9615ec&as=b780d950028433480481684f59fc2e485b937364&_p=Y29tLmRyb3Bib3guYW5kcm9pZA&c=1%7CPRODUCTIVITY%7CZGV2PURyb3Bib3glMkMlMjBJbmMuJnZuPTExMC4yLjQmdmM9MTEwMjA0MDA"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "AirReceiver",
-        "package": "com.softmedia.receiver",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Dropbox_v106.2.2_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/dXMuem9vbS52aWRlb21lZXRpbmdzX2ljb25fMTUzNTY5MTQ1OV8wOTg/icon.png?w=170&fakeurl=1&type=.png",
         "name": "ZOOM",
         "package": "us.zoom.videomeetings",
-        "url": "https://download.apkpure.com/b/apk/dXMuem9vbS52aWRlb21lZXRpbmdzXzQxMDE2X2ExN2FmNDE0?_fn=Wk9PTSBDbG91ZCBNZWV0aW5nc192NC4xLjMwNDQ1LjA4MjBfYXBrcHVyZS5jb20uYXBr&k=68bb5178c87d15aa97291a3acf0cf6395b989862&as=d23bf79e21f39f350c99eb01f64b113e5b95f5da&_p=dXMuem9vbS52aWRlb21lZXRpbmdz&c=1%7CBUSINESS%7CZGV2PXpvb20udXMmdm49NC4xLjMwNDQ1LjA4MjAmdmM9NDEwMTY"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ZOOM%20Cloud%20Meetings_v4.1.28165.0716_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://cdn6.aptoide.com/imgs/0/6/8/0683bc631645c6da92678b922290fe57_icon.png?w=120",
         "name": "Cast Receiver",
         "package": "com.softmedia.receiver.castapp",
-        "url":"http://apkins.aptoide.com/castreceiver.apk?uid=37091006&store=mrsongosucks&ver=8.6.4.1&entry_point=apkfy_desktop&utm_source=direct&utm_medium=none&utm_campaign=none&utm_content=none&t_site_version=3&t_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13_3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F68.0.3440.106+Safari%2F537.36&t_app_url=https%3A%2F%2Fcastreceiver.en.aptoide.com%2F&t_app_package=com.softmedia.receiver.castapp&t_site_session=d95a71d963659b0458b68d2"
+        "url":"https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9wX2ljb25fMTUzNTYyODY4Ml8wMDc/icon.png?w=170&fakeurl=1&type=.png",
         "name": "ES File Explorer",
         "package": "com.estrongs.android.pop",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9wXzcyNV9jMTkwMzQ4MQ?_fn=RVMgRmlsZSBFeHBsb3JlciBGaWxlIE1hbmFnZXJfdjQuMS44LjVfYXBrcHVyZS5jb20uYXBr&k=1be690ad0c2847270ba11c7337941dcc5b98a622&as=f6dd3712717b1a1a12ae60fc9283dedd5b96039a&_p=Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9w&c=1%7CPRODUCTIVITY%7CZGV2PUVTJTIwR2xvYmFsJnZuPTQuMS44LjUmdmM9NzI1"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyX2ljb25fMTUzNjE2NzY2NF8wMjE/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Calendar",
         "package": "com.google.android.calendar",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyXzIwMTU5MTgxMjRfODc1ZDBlNWE?_fn=R29vZ2xlIENhbGVuZGFyX3Y1LjguNDYtMjEwMDcyNDkwLXJlbGVhc2VfYXBrcHVyZS5jb20uYXBr&k=f9c2e379bf26ef61609a53336f91b2e95b98a67f&as=b32871904cc7ef73345402e4559770bd5b9603f7&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFy&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj01LjguNDYtMjEwMDcyNDkwLXJlbGVhc2UmdmM9MjAxNTkxODEyNA"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTUzNjI5MTUwOF8wMTY/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Chrome",
         "package": "com.android.chrome",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmFuZHJvaWQuY2hyb21lXzM0NDAwNzAwMV80OTIyYjI5OA?_fn=R29vZ2xlIENocm9tZSBGYXN0IFNlY3VyZV92NjguMC4zNDQwLjcwX2Fwa3B1cmUuY29tLmFwaw&k=4f4f2f4ab8a510fea74ff98ad7f701de5b98a6b9&as=a60b047b5f2d5178757a7329043c79be5b960431&_p=Y29tLmFuZHJvaWQuY2hyb21l&c=1%7CCOMMUNICATION%7CZGV2PUdvb2dsZSUyMExMQyZ2bj02OC4wLjM0NDAuNzAmdmM9MzQ0MDA3MDAx"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jc19pY29uXzE1MzYwNzI4MTlfMDQy/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Drive",
         "package": "com.google.android.apps.docs",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jc18xODMzMjAyMzVfYWMzZWZjOWI?_fn=R29vZ2xlIERyaXZlX3YyLjE4LjMzMi4wMi4zNV9hcGtwdXJlLmNvbS5hcGs&k=1c44c50f7c0010cdf31a5ac7f4cc6ae15b98a717&as=dff698b2c703bd72674c1e2c54f7aabe5b96048f&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcw&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0yLjE4LjMzMi4wMi4zNSZ2Yz0xODMzMjAyMzU"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLnRhbGtfaWNvbl8xNTMzNzU1MDc1XzA4Nw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Hangouts",
         "package": "com.google.android.talk",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLnRhbGtfMjUxNjQ5OTVfOGNjMDQ3ZDc?_fn=SGFuZ291dHNfdjI2LjAuMjA1MzE1NTk3X2Fwa3B1cmUuY29tLmFwaw&k=4ad8f0feda0b6270a368485dcf9f16ca5b98a7dd&as=f0eeac70b4dd05ddaf41be3e9f31f2f75b960555&_p=Y29tLmdvb2dsZS5hbmRyb2lkLnRhbGs&c=1%7CCOMMUNICATION%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0yNi4wLjIwNTMxNTU5NyZ2Yz0yNTE2NDk5NQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLmRvY3NfaWNvbl8xNTM2MDgxNDA3XzA2NQ/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Docs",
         "package": "com.google.android.apps.docs.editors.docs",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLmRvY3NfMTgzMzIwMzM0X2E1MTE5NmI1?_fn=R29vZ2xlIERvY3NfdjEuMTguMzMyLjAzLjM0X2Fwa3B1cmUuY29tLmFwaw&k=cc01e7bbbbf3e06ee109bb3199fa59be5b98a7ef&as=f8833b934010cd01ea5f4bc3557c70395b960567&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLmRvY3M&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0xLjE4LjMzMi4wMy4zNCZ2Yz0xODMzMjAzMzQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNoZWV0c19pY29uXzE1MzYwOTAxMDdfMDQ1/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Sheets",
         "package": "com.google.android.apps.docs.editors.sheets",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNoZWV0c18xODMzMjAyMzVfZjVlZDc2YzQ?_fn=R29vZ2xlIFNoZWV0c192MS4xOC4zMzIuMDIuMzVfYXBrcHVyZS5jb20uYXBr&k=91093c216c4033141c9799f9cd2063005b98a80e&as=425003924afcaa5327d0b144849a8b7e5b960586&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNoZWV0cw&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0xLjE4LjMzMi4wMi4zNSZ2Yz0xODMzMjAyMzU"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNsaWRlc19pY29uXzE1MzYwODEyNzRfMDgx/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Google Slides",
         "package": "com.google.android.apps.docs.editors.slides",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNsaWRlc18xODMzMjAyMzBfYjBhOTBmNzU?_fn=R29vZ2xlIFNsaWRlc192MS4xOC4zMzIuMDIuMzBfYXBrcHVyZS5jb20uYXBr&k=55a978379d8582ac51e9e9cc594a2fc35b98a879&as=a9e525698e151661bb4d3e345fa29b235b9605f1&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNsaWRlcw&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0xLjE4LjMzMi4wMi4zMCZ2Yz0xODMzMjAyMzA"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGRmdmlld2VyX2ljb25fMTUwNzU2MzEzOF8wNjQ/icon.png?w=170&fakeurl=1&type=.png",
         "name": "PDF Viewer",
         "package": "com.google.android.apps.pdfviewer",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGRmdmlld2VyXzczMzIxMDMwX2VjZmEwNTVl?_fn=R29vZ2xlIFBERiBWaWV3ZXJfdjIuNy4zMzIuMTAuMzBfYXBrcHVyZS5jb20uYXBr&k=2b3ba8a5134e61f67b4503fe06f5b08b5b98a899&as=36cf584cc9914e845b201f1e10a054985b960611&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGRmdmlld2Vy&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj0yLjcuMzMyLjEwLjMwJnZjPTczMzIxMDMw"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvdG9tZWV0aW5nX2ljb25fMTUzNDE1NTU0Nl8wODI/icon.png?w=170&fakeurl=1&type=.png",
         "name": "GoToMeeting",
         "package": "com.gotomeeting",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmdvdG9tZWV0aW5nXzE0Nl9lMWRjYTJkOQ?_fn=R29Ub01lZXRpbmcg4oCTIFZpZGVvIENvbmZlcmVuY2luZyBPbmxpbmUgTWVldGluZ3NfdjIuOS4wLjFfYXBrcHVyZS5jb20uYXBr&k=4f20151137e6c25f8b32a309de14a6a75b98a917&as=1f5d2345dbd097e6267b89f8bbd449f15b96068f&_p=Y29tLmdvdG9tZWV0aW5n&c=1%7CBUSINESS%7CZGV2PUxvZ01lSW4lMkMlMjBJbmMuJnZuPTIuOS4wLjEmdmM9MTQ2"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV9pY29uXzE1MzM3MjA3NjJfMDk0/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Mobile Jira",
         "package": "com.infosysta.mobile.jira",
-        "url": "https://download.apkpure.com/b/apk/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV82NV82OWVlODZlMg?_fn=TW9iaWxlIGZvciBKaXJhX3YzLjQuMl9hcGtwdXJlLmNvbS5hcGs&k=1e7a149bd1be2a2498a6396c4a843a905b98a994&as=cd4ef20edd73b0487c7a98beae772ef95b96070c&_p=Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYQ&c=1%7CPRODUCTIVITY%7CZGV2PUluZm9zeXN0YSZ2bj0zLjQuMiZ2Yz02NQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1MzQ5OTUwNjZfMDA0/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft Word",
         "package": "com.microsoft.office.word",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF8yMDAxNTg2NzQ1XzljM2JiODM?_fn=TWljcm9zb2Z0IFdvcmRfdjE2LjAuMTA3MzAuMjAwNDFfYXBrcHVyZS5jb20uYXBr&k=f863f49f21b857a8799b00c3d13ce21a5b98a9e2&as=92d7f3b787d21f29221ae9ff4aa20a835b96075a&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZA&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDEmdmM9MjAwMTU4Njc0NQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTM0OTk1MTMxXzAzNg/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft Excel",
         "package": "com.microsoft.office.excel",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfMjAwMTU4Njc0OV82NzZiN2M?_fn=TWljcm9zb2Z0IEV4Y2VsX3YxNi4wLjEwNzMwLjIwMDQxX2Fwa3B1cmUuY29tLmFwaw&k=61f3f04e6acd7810b5bb2d6a27bdbd8f5b98aa1d&as=e5e2617a1e7ffdb40025b6aedc4bcfc25b960795&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWw&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDEmdmM9MjAwMTU4Njc0OQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1MzUwOTM3ODNfMDg1/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft PowerPoint",
         "package": "com.microsoft.office.powerpoint",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF8yMDAxNTg2Nzc4XzQwNTZmMTBl?_fn=TWljcm9zb2Z0IFBvd2VyUG9pbnRfdjE2LjAuMTA3MzAuMjAwNDNfYXBrcHVyZS5jb20uYXBr&k=8fc88a2e347aa89d202136dac37071be5b98aa48&as=40101cbdc671510afd8df9400cf9d8cf5b9607c0&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludA&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDMmdmM9MjAwMTU4Njc3OA"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV9pY29uXzE1MzQ5MTQzMDRfMDE0/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft OneNote",
         "package": "com.microsoft.office.onenote",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV8xODAxNTg2Mzc5X2Y3YzFhNGU2?_fn=TWljcm9zb2Z0IE9uZU5vdGVfdjE2LjAuMTA3MzAuMjAwMjFfYXBrcHVyZS5jb20uYXBr&k=cc1fefbe35be6489ede55c9332c7609f5b98aa6c&as=8b21b97c9bc30ef49377de0d80c201a15b9607e4&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZQ&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwMjEmdmM9MTgwMTU4NjM3OQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV9pY29uXzE1MzYwOTMxNDRfMDcw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "OneDrive",
         "package": "com.microsoft.skydrive",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV8yMDI1MTYwMjEwX2IzYmNhNTI5?_fn=TWljcm9zb2Z0IE9uZURyaXZlX3Y1LjE2X2Fwa3B1cmUuY29tLmFwaw&k=d80b8d525de722fc08e3b313db69edf55b98aaaa&as=d0fda7df1edf35769b5b9c04f312cc015b960822&_p=Y29tLm1pY3Jvc29mdC5za3lkcml2ZQ&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTUuMTYmdmM9MjAyNTE2MDIxMA"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLnRyZWxsb19pY29uXzE1MzU0MTEzMjBfMDMw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Trello",
         "package": "com.trello",
-        "url": "https://download.apkpure.com/b/apk/Y29tLnRyZWxsb18xMTI4NV9iYzVkNDQwNg?_fn=VHJlbGxvX3Y1LjEuMS4xMTI4NS1wcm9kdWN0aW9uX2Fwa3B1cmUuY29tLmFwaw&k=e91c93676493d217bac8897a143d02f85b98aafa&as=55d7e80b9b2849e5617856b2487967455b960872&_p=Y29tLnRyZWxsbw&c=1%7CPRODUCTIVITY%7CZGV2PVRyZWxsbyUyQyUyMEluYy4mdm49NS4xLjEuMTEyODUtcHJvZHVjdGlvbiZ2Yz0xMTI4NQ"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
 	{
         "type": "native",
