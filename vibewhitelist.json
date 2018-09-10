@@ -135,57 +135,57 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV9pY29uXzE1MzM3MjA3NjJfMDk0/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Mobile Jira",
-        "package": "com.infosysta.mobile.jira",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "name": "Jira",
+        "package": "com.atlassian.android.jira.core",
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Jira%20Cloud_v9.0.143_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1MzQ5OTUwNjZfMDA0/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft Word",
         "package": "com.microsoft.office.word",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Word_v16.0.10325.20043_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTM0OTk1MTMxXzAzNg/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft Excel",
         "package": "com.microsoft.office.excel",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Excel_v16.0.10325.20059_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1MzUwOTM3ODNfMDg1/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft PowerPoint",
         "package": "com.microsoft.office.powerpoint",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20PowerPoint_v16.0.10325.20043_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV9pY29uXzE1MzQ5MTQzMDRfMDE0/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Microsoft OneNote",
         "package": "com.microsoft.office.onenote",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20OneNote_v16.0.10325.20024_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV9pY29uXzE1MzYwOTMxNDRfMDcw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "OneDrive",
         "package": "com.microsoft.skydrive",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20OneDrive_v5.15_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLnRyZWxsb19pY29uXzE1MzU0MTEzMjBfMDMw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Trello",
         "package": "com.trello",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Trello_v5.0.1.11068-production_apkpure.com.apk"
     },
 	{
         "type": "native",
         "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
         "name": "shadowsocks",
         "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/shadowsocks.apk"
     }
 ]
