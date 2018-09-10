@@ -134,7 +134,7 @@
     },
 	{
         "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV9pY29uXzE1MzM3MjA3NjJfMDk0/icon.png?w=170&fakeurl=1&type=.png",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmppcmEuY29yZV9pY29uXzE1MzYwNzA2NjRfMDUw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Jira",
         "package": "com.atlassian.android.jira.core",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Jira%20Cloud_v9.0.143_apkpure.com.apk"
