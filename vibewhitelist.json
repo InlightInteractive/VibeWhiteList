@@ -2,7 +2,7 @@
     {
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFkb2JlLnJlYWRlcl9pY29uXzE1MjM5NjQ3MjRfMDU2/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Acrobat Reader",
+        "name": "Acrobat",
         "package": "com.adobe.reader",
         "url": "https://download.apkpure.com/b/apk/Y29tLmFkb2JlLnJlYWRlcl8xODI5MzVfMzViYzlmNWE?_fn=QWRvYmUgQWNyb2JhdCBSZWFkZXJfdjE4LjIuMC4xODI5MzVfYXBrcHVyZS5jb20uYXBr&k=872a6b8248c734b7f4d592104d2c56755b961396&as=c3c18786f43b6241ee6ade69fd574c655b93710e&_p=Y29tLmFkb2JlLnJlYWRlcg&c=1%7CPRODUCTIVITY%7CZGV2PUFkb2JlJnZuPTE4LjIuMC4xODI5MzUmdmM9MTgyOTM1"
     },
@@ -19,13 +19,6 @@
         "name": "Webex",
         "package": "com.cisco.webex.meetings",
         "url": "https://download.apkpure.com/b/apk/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzXzIxMTIwMTY1Xzg1NWNjMTBm?_fn=Q2lzY28gV2ViZXggTWVldGluZ3NfdjExLjIuMF9hcGtwdXJlLmNvbS5hcGs&k=709559271a6b18a5b2a1fe4a7a0fc6a45b961498&as=d2e0381bca254c74cc86f12faacc2d945b937210&_p=Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdz&c=1%7CBUSINESS%7CZGV2PUNpc2NvJTIwU3lzdGVtcyUyQyUyMEluYy4mdm49MTEuMi4wJnZjPTIxMTIwMTY1"
-    },
-    {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1X2ljb25fMTUzMzU4MTI2OF8wOTc/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Skype for Business",
-        "package": "com.microsoft.office.lync15",
-        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1XzEwMjAzOTU2OV8zZDllNjU0MA?_fn=U2t5cGUgZm9yIEJ1c2luZXNzIGZvciBBbmRyb2lkX3Y2LjIxLjAuMTdfYXBrcHVyZS5jb20uYXBr&k=8db4ea9e4861aa44c8a909be29e43c9a5b96150f&as=e094150230e881634bb7c6fa7637012b5b937287&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1&c=1%7CBUSINESS%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTYuMjEuMC4xNyZ2Yz0xMDIwMzk1Njk"
     },
     {
         "type": "native",
@@ -67,8 +60,7 @@
         "icon": "https://cdn6.aptoide.com/imgs/0/6/8/0683bc631645c6da92678b922290fe57_icon.png?w=120",
         "name": "Cast Receiver",
         "package": "com.softmedia.receiver.castapp",
-        "url":
-      "http://apkins.aptoide.com/castreceiver.apk?uid=37091006&store=mrsongosucks&ver=8.6.4.1&entry_point=apkfy_desktop&utm_source=direct&utm_medium=none&utm_campaign=none&utm_content=none&t_site_version=3&t_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13_3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F68.0.3440.106+Safari%2F537.36&t_app_url=https%3A%2F%2Fcastreceiver.en.aptoide.com%2F&t_app_package=com.softmedia.receiver.castapp&t_site_session=d95a71d963659b0458b68d2"
+        "url":"http://apkins.aptoide.com/castreceiver.apk?uid=37091006&store=mrsongosucks&ver=8.6.4.1&entry_point=apkfy_desktop&utm_source=direct&utm_medium=none&utm_campaign=none&utm_content=none&t_site_version=3&t_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13_3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F68.0.3440.106+Safari%2F537.36&t_app_url=https%3A%2F%2Fcastreceiver.en.aptoide.com%2F&t_app_package=com.softmedia.receiver.castapp&t_site_session=d95a71d963659b0458b68d2"
     },
 	{
         "type": "native",
@@ -80,14 +72,14 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyX2ljb25fMTUzNjE2NzY2NF8wMjE/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Calendar",
+        "name": "Calendar",
         "package": "com.google.android.calendar",
         "url": "https://download.apkpure.com/b/apk/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyXzIwMTU5MTgxMjRfODc1ZDBlNWE?_fn=R29vZ2xlIENhbGVuZGFyX3Y1LjguNDYtMjEwMDcyNDkwLXJlbGVhc2VfYXBrcHVyZS5jb20uYXBr&k=f9c2e379bf26ef61609a53336f91b2e95b98a67f&as=b32871904cc7ef73345402e4559770bd5b9603f7&_p=Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFy&c=1%7CPRODUCTIVITY%7CZGV2PUdvb2dsZSUyMExMQyZ2bj01LjguNDYtMjEwMDcyNDkwLXJlbGVhc2UmdmM9MjAxNTkxODEyNA"
     },
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTUzNjI5MTUwOF8wMTY/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Chrome",
+        "name": "Chrome",
         "package": "com.android.chrome",
         "url": "https://download.apkpure.com/b/apk/Y29tLmFuZHJvaWQuY2hyb21lXzM0NDAwNzAwMV80OTIyYjI5OA?_fn=R29vZ2xlIENocm9tZSBGYXN0IFNlY3VyZV92NjguMC4zNDQwLjcwX2Fwa3B1cmUuY29tLmFwaw&k=4f4f2f4ab8a510fea74ff98ad7f701de5b98a6b9&as=a60b047b5f2d5178757a7329043c79be5b960431&_p=Y29tLmFuZHJvaWQuY2hyb21l&c=1%7CCOMMUNICATION%7CZGV2PUdvb2dsZSUyMExMQyZ2bj02OC4wLjM0NDAuNzAmdmM9MzQ0MDA3MDAx"
     },
@@ -188,69 +180,6 @@
         "name": "Trello",
         "package": "com.trello",
         "url": "https://download.apkpure.com/b/apk/Y29tLnRyZWxsb18xMTI4NV9iYzVkNDQwNg?_fn=VHJlbGxvX3Y1LjEuMS4xMTI4NS1wcm9kdWN0aW9uX2Fwa3B1cmUuY29tLmFwaw&k=e91c93676493d217bac8897a143d02f85b98aafa&as=55d7e80b9b2849e5617856b2487967455b960872&_p=Y29tLnRyZWxsbw&c=1%7CPRODUCTIVITY%7CZGV2PVRyZWxsbyUyQyUyMEluYy4mdm49NS4xLjEuMTEyODUtcHJvZHVjdGlvbiZ2Yz0xMTI4NQ"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
     },
 	{
         "type": "native",
