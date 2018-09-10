@@ -135,6 +135,118 @@
     },
 	{
         "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmdvdG9tZWV0aW5nX2ljb25fMTUzNDE1NTU0Nl8wODI/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "GoToMeeting",
+        "package": "com.gotomeeting",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmdvdG9tZWV0aW5nXzE0Nl9lMWRjYTJkOQ?_fn=R29Ub01lZXRpbmcg4oCTIFZpZGVvIENvbmZlcmVuY2luZyBPbmxpbmUgTWVldGluZ3NfdjIuOS4wLjFfYXBrcHVyZS5jb20uYXBr&k=4f20151137e6c25f8b32a309de14a6a75b98a917&as=1f5d2345dbd097e6267b89f8bbd449f15b96068f&_p=Y29tLmdvdG9tZWV0aW5n&c=1%7CBUSINESS%7CZGV2PUxvZ01lSW4lMkMlMjBJbmMuJnZuPTIuOS4wLjEmdmM9MTQ2"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV9pY29uXzE1MzM3MjA3NjJfMDk0/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Mobile Jira",
+        "package": "com.infosysta.mobile.jira",
+        "url": "https://download.apkpure.com/b/apk/Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYV82NV82OWVlODZlMg?_fn=TW9iaWxlIGZvciBKaXJhX3YzLjQuMl9hcGtwdXJlLmNvbS5hcGs&k=1e7a149bd1be2a2498a6396c4a843a905b98a994&as=cd4ef20edd73b0487c7a98beae772ef95b96070c&_p=Y29tLmluZm9zeXN0YS5tb2JpbGUuamlyYQ&c=1%7CPRODUCTIVITY%7CZGV2PUluZm9zeXN0YSZ2bj0zLjQuMiZ2Yz02NQ"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1MzQ5OTUwNjZfMDA0/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Microsoft Word",
+        "package": "com.microsoft.office.word",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF8yMDAxNTg2NzQ1XzljM2JiODM?_fn=TWljcm9zb2Z0IFdvcmRfdjE2LjAuMTA3MzAuMjAwNDFfYXBrcHVyZS5jb20uYXBr&k=f863f49f21b857a8799b00c3d13ce21a5b98a9e2&as=92d7f3b787d21f29221ae9ff4aa20a835b96075a&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZA&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDEmdmM9MjAwMTU4Njc0NQ"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTM0OTk1MTMxXzAzNg/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Microsoft Excel",
+        "package": "com.microsoft.office.excel",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfMjAwMTU4Njc0OV82NzZiN2M?_fn=TWljcm9zb2Z0IEV4Y2VsX3YxNi4wLjEwNzMwLjIwMDQxX2Fwa3B1cmUuY29tLmFwaw&k=61f3f04e6acd7810b5bb2d6a27bdbd8f5b98aa1d&as=e5e2617a1e7ffdb40025b6aedc4bcfc25b960795&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWw&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDEmdmM9MjAwMTU4Njc0OQ"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1MzUwOTM3ODNfMDg1/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Microsoft PowerPoint",
+        "package": "com.microsoft.office.powerpoint",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF8yMDAxNTg2Nzc4XzQwNTZmMTBl?_fn=TWljcm9zb2Z0IFBvd2VyUG9pbnRfdjE2LjAuMTA3MzAuMjAwNDNfYXBrcHVyZS5jb20uYXBr&k=8fc88a2e347aa89d202136dac37071be5b98aa48&as=40101cbdc671510afd8df9400cf9d8cf5b9607c0&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludA&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwNDMmdmM9MjAwMTU4Njc3OA"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV9pY29uXzE1MzQ5MTQzMDRfMDE0/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Microsoft OneNote",
+        "package": "com.microsoft.office.onenote",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV8xODAxNTg2Mzc5X2Y3YzFhNGU2?_fn=TWljcm9zb2Z0IE9uZU5vdGVfdjE2LjAuMTA3MzAuMjAwMjFfYXBrcHVyZS5jb20uYXBr&k=cc1fefbe35be6489ede55c9332c7609f5b98aa6c&as=8b21b97c9bc30ef49377de0d80c201a15b9607e4&_p=Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZQ&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTE2LjAuMTA3MzAuMjAwMjEmdmM9MTgwMTU4NjM3OQ"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV9pY29uXzE1MzYwOTMxNDRfMDcw/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "OneDrive",
+        "package": "com.microsoft.skydrive",
+        "url": "https://download.apkpure.com/b/apk/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV8yMDI1MTYwMjEwX2IzYmNhNTI5?_fn=TWljcm9zb2Z0IE9uZURyaXZlX3Y1LjE2X2Fwa3B1cmUuY29tLmFwaw&k=d80b8d525de722fc08e3b313db69edf55b98aaaa&as=d0fda7df1edf35769b5b9c04f312cc015b960822&_p=Y29tLm1pY3Jvc29mdC5za3lkcml2ZQ&c=1%7CPRODUCTIVITY%7CZGV2PU1pY3Jvc29mdCUyMENvcnBvcmF0aW9uJnZuPTUuMTYmdmM9MjAyNTE2MDIxMA"
+    },
+	{
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLnRyZWxsb19pY29uXzE1MzU0MTEzMjBfMDMw/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Trello",
+        "package": "com.trello",
+        "url": "https://download.apkpure.com/b/apk/Y29tLnRyZWxsb18xMTI4NV9iYzVkNDQwNg?_fn=VHJlbGxvX3Y1LjEuMS4xMTI4NS1wcm9kdWN0aW9uX2Fwa3B1cmUuY29tLmFwaw&k=e91c93676493d217bac8897a143d02f85b98aafa&as=55d7e80b9b2849e5617856b2487967455b960872&_p=Y29tLnRyZWxsbw&c=1%7CPRODUCTIVITY%7CZGV2PVRyZWxsbyUyQyUyMEluYy4mdm49NS4xLjEuMTEyODUtcHJvZHVjdGlvbiZ2Yz0xMTI4NQ"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "name": "shadowsocks",
+        "package": "com.github.shadowsocks",
+        "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/shadowsocks.apk"
+    },
+	{
+        "type": "native",
         "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
         "name": "shadowsocks",
         "package": "com.github.shadowsocks",
