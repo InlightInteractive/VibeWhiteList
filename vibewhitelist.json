@@ -10,7 +10,7 @@
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmZveGl0Lm1vYmlsZS5wZGYubGl0ZV9pY29uXzE1MzA4NTU0MjVfMDA4/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Foxit PDF",
-        "package": "com.adobe.reader",
+        "package": "com.foxit.mobile.pdf.lite",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
     {
@@ -26,6 +26,13 @@
         "name": "AirReceiver",
         "package": "com.softmedia.receiver",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
+    },
+	   {
+        "type": "native",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmlvbml0ZWNoLmFpcnNjcmVlbl9pY29uXzE1MzU1MjUwMTFfMDMy/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "AirScreen",
+        "package": "com.ionitech.airscreen",
+        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirScreen_release1.7.6.apk"
     },
     {
         "type": "native",
