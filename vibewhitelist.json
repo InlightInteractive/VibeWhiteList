@@ -1,77 +1,13 @@
 [
     {
         "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmFkb2JlLnJlYWRlcl9pY29uXzE1MjM5NjQ3MjRfMDU2/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Acrobat",
-        "package": "com.adobe.reader",
-	"packageName": "com.adobe.reader",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
-    },
-    {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmZveGl0Lm1vYmlsZS5wZGYubGl0ZV9pY29uXzE1MzA4NTU0MjVfMDA4/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Foxit PDF",
-        "package": "com.foxit.mobile.pdf.lite",
-	"packageName": "com.foxit.mobile.pdf.lite",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
-    },
-    {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Asana",
-        "package": "com.asana.app",
-	"packageName": "com.asana.app",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Asana%20organize%20team%20projects_v6.5.2_apkpure.com.apk"
-    },
-	   {
-        "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
         "name": "AirReceiver",
         "package": "com.softmedia.receiver",
 	"packageName": "com.softmedia.receiver",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
     },
-	   {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmlvbml0ZWNoLmFpcnNjcmVlbl9pY29uXzE1MzU1MjUwMTFfMDMy/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "AirScreen",
-        "package": "com.ionitech.airscreen",
-	"packageName": "com.ionitech.airscreen",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirScreen_release1.7.6.apk"
-    },
     {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmNpc2NvLndlYmV4Lm1lZXRpbmdzX2ljb25fMTUzNTA1NjcxOF8wODk/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Webex",
-        "package": "com.cisco.webex.meetings",
-	"packageName": "com.cisco.webex.meetings",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Cisco%20Webex%20Meetings_v11.1.0_apkpure.com.apk"
-    },
-    {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UubHluYzE1X2ljb25fMTUzMzU4MTI2OF8wOTc/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Skype",
-        "package": "com.skype.raider",
-	"packageName": "com.skype.raider",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/com.skype.raider_8.15.0.195.apk"
-    },
-    {
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3gucGFwZXJfaWNvbl8xNTM1NDg1OTU2XzA4Mg/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "DropBox Paper",
-        "package": "com.dropbox.paper",
-	"packageName": "com.dropbox.paper",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Dropbox%20Paper_v108.1.2_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmRyb3Bib3guYW5kcm9pZF9pY29uXzE1MzYzODY5NTZfMDIx/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "DropBox",
-        "package": "com.dropbox.android",
-	"packageName": "com.dropbox.android",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Dropbox_v106.2.2_apkpure.com.apk"
-    },
-	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/dXMuem9vbS52aWRlb21lZXRpbmdzX2ljb25fMTUzNTY5MTQ1OV8wOTg/icon.png?w=170&fakeurl=1&type=.png",
         "name": "ZOOM",
@@ -79,156 +15,12 @@
 	"packageName": "us.zoom.videomeetings",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ZOOM%20Cloud%20Meetings_v4.1.28165.0716_apkpure.com.apk"
     },
-	{
-        "type": "native",
-        "icon": "https://cdn6.aptoide.com/imgs/0/6/8/0683bc631645c6da92678b922290fe57_icon.png?w=120",
-        "name": "Cast Receiver",
-        "package": "com.softmedia.receiver.castapp",
-	"packageName": "com.softmedia.receiver.castapp",
-        "url":"https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/castreceiver.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9wX2ljb25fMTUzNTYyODY4Ml8wMDc/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "ES File Explorer",
-        "package": "com.estrongs.android.pop",
-	"packageName": "com.estrongs.android.pop",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ES%20File%20Explorer%20File%20Manager_v4.1.8.2.2_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyX2ljb25fMTUzNjE2NzY2NF8wMjE/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Calendar",
-        "package": "com.google.android.calendar",
-	"packageName": "com.google.android.calendar",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Calendar_v5.8.44-208015756-release_apkpure.com.apk"
-    },
-	{
+    {
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTUzNjI5MTUwOF8wMTY/icon.png?w=170&fakeurl=1&type=.png",
         "name": "Chrome",
         "package": "com.android.chrome",
 	"packageName": "com.android.chrome",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Chrome%20Fast%20Secure_v68.0.3440.70_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jc19pY29uXzE1MzYwNzI4MTlfMDQy/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Drive",
-        "package": "com.google.android.apps.docs",
-	"packageName": "com.google.android.apps.docs",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Drive_v2.18.312.01.35_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLnRhbGtfaWNvbl8xNTMzNzU1MDc1XzA4Nw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Hangouts",
-        "package": "com.google.android.talk",
-	"packageName": "com.google.android.talk",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Hangouts_v26.0.205315597_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLmRvY3NfaWNvbl8xNTM2MDgxNDA3XzA2NQ/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Docs",
-        "package": "com.google.android.apps.docs.editors.docs",
-	"packageName": "com.google.android.apps.docs.editors.docs",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Docs_v1.18.312.05.34_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNoZWV0c19pY29uXzE1MzYwOTAxMDdfMDQ1/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Sheets",
-        "package": "com.google.android.apps.docs.editors.sheets",
-	"packageName": "com.google.android.apps.docs.editors.sheets",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Sheets_v1.18.312.03.35_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcy5lZGl0b3JzLnNsaWRlc19pY29uXzE1MzYwODEyNzRfMDgx/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Google Slides",
-        "package": "com.google.android.apps.docs.editors.slides",
-	"packageName": "com.google.android.apps.docs.editors.slides",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20Slides_v1.18.312.02.30_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGRmdmlld2VyX2ljb25fMTUwNzU2MzEzOF8wNjQ/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "PDF Viewer",
-        "package": "com.google.android.apps.pdfviewer",
-	"packageName": "com.google.android.apps.pdfviewer",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Google%20PDF%20Viewer_v2.7.332.10.30_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmdvdG9tZWV0aW5nX2ljb25fMTUzNDE1NTU0Nl8wODI/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "GoToMeeting",
-        "package": "com.gotomeeting",
-	"packageName": "com.gotomeeting",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/GoToMeeting_v2.9.0.1.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmppcmEuY29yZV9pY29uXzE1MzYwNzA2NjRfMDUw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Jira",
-        "package": "com.atlassian.android.jira.core",
-	"packageName": "com.atlassian.android.jira.core",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Jira%20Cloud_v9.0.143_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1MzQ5OTUwNjZfMDA0/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft Word",
-        "package": "com.microsoft.office.word",
-	"packageName": "com.microsoft.office.word",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Word_v16.0.10325.20043_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTM0OTk1MTMxXzAzNg/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft Excel",
-        "package": "com.microsoft.office.excel",
-	"packageName": "com.microsoft.office.excel",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Excel_v16.0.10325.20059_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1MzUwOTM3ODNfMDg1/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft PowerPoint",
-        "package": "com.microsoft.office.powerpoint",
-	"packageName": "com.microsoft.office.powerpoint",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20PowerPoint_v16.0.10325.20043_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV9pY29uXzE1MzQ5MTQzMDRfMDE0/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft OneNote",
-        "package": "com.microsoft.office.onenote",
-	"packageName": "com.microsoft.office.onenote",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20OneNote_v16.0.10325.20024_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV9pY29uXzE1MzYwOTMxNDRfMDcw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "OneDrive",
-        "package": "com.microsoft.skydrive",
-	"packageName": "com.microsoft.skydrive",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20OneDrive_v5.15_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLnRyZWxsb19pY29uXzE1MzU0MTEzMjBfMDMw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Trello",
-        "package": "com.trello",
-	"packageName": "com.trello",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Trello_v5.0.1.11068-production_apkpure.com.apk"
-    },
-	{
-        "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
-        "name": "shadowsocks",
-        "package": "com.github.shadowsocks",
-	"packageName": "com.github.shadowsocks",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/shadowsocks.apk"
     }
 ]
