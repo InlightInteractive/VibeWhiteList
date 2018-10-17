@@ -225,7 +225,7 @@
     },
 	{
         "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/shadowsocks.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Shadowsocks-Logo.svg/200px-Shadowsocks-Logo.svg.png",
         "name": "shadowsocks",
         "package": "com.github.shadowsocks",
 	"packageName": "com.github.shadowsocks",
