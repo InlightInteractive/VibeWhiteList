@@ -5,7 +5,8 @@
         "name": "Acrobat",
         "package": "com.adobe.reader",
 	"packageName": "com.adobe.reader",
-        "url": "https://dl.vibe.us/apks/com.adobe.reader/Adobe+Acrobat+Reader_v18.2.0.182935_apkpure.com.apk"
+	    
+        "url": "https://dl.vibe.us/apks/com.adobe.reader/Adobe%20Acrobat%20Reader_v18.2.0.182935_apkpure.com.apk"
     },
     {
         "type": "native",
