@@ -239,4 +239,16 @@
         "name": "Baidu",
         "url": "http://www.baidu.com"
     }
+	{
+        "type": "web",
+        "icon": "https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png",
+        "name": "Figma",
+        "url": "http://www.figma.com"
+    }
+	{
+        "type": "web",
+        "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
+        "name": "Asana",
+        "url": "http://www.asana.com"
+    }
 ]
