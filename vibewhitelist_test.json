@@ -238,13 +238,13 @@
         "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540030640532&di=cd58e21a810ce470d1200acc3950b367&imgtype=0&src=http%3A%2F%2Foss.aliyuncs.com%2Fmsimage%2FUpload%2Fwww.kashangwl.com%2FCooperationLink%2F9ccc1233-d045-4fb1-9892-5f70a6a48abf.png",
         "name": "Baidu",
         "url": "http://www.baidu.com"
-    }
+    },
 	{
         "type": "web",
         "icon": "https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png",
         "name": "Figma",
         "url": "http://www.figma.com"
-    }
+    },
 	{
         "type": "web",
         "icon": "https://image.winudf.com/v2/image/Y29tLmFzYW5hLmFwcF9pY29uXzE1MzYzMDU2OTJfMDI2/icon.png?w=170&fakeurl=1&type=.png",
