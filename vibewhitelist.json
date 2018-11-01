@@ -1,11 +1,11 @@
 [
     {
         "type": "native",
-        "icon": "https://image.winudf.com/v2/image/Y29tLnNvZnRtZWRpYS5yZWNlaXZlci5saXRlX2ljb25fMF9lMjljNzNkNw/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "AirReceiver",
-        "package": "com.softmedia.receiver",
-	"packageName": "com.softmedia.receiver",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirReceiver.apk"
+        "icon": "https://dl.vibe.us/apks/com.ionitech.airscreen/icon.png",
+        "name": "AirScreen",
+        "package": "com.ionitech.airscreen",
+	"packageName": "com.ionitech.airscreen",
+        "url": "https://dl.vibe.us/apks/com.ionitech.airscreen/AirScreen_InLight_Release_ver.1.7.16.apk"
     },
     {
         "type": "native",
