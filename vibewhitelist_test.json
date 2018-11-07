@@ -39,7 +39,7 @@
         "package": "com.ionitech.airscreen",
 	"packageName": "com.ionitech.airscreen",
 	"versionCode": 83,
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/AirScreen_release1.7.6.apk"
+        "url": "https://dl.vibe.us/apks/com.ionitech.airscreen/AirScreen_InLight_Release_1.7.17.apk"
     },
     {
         "type": "native",
@@ -47,7 +47,7 @@
         "name": "Webex",
         "package": "com.cisco.webex.meetings",
 	"packageName": "com.cisco.webex.meetings",
-        "url": "https://dl.vibe.us/apks/com.ionitech.airscreen/AirScreen_InLight_Release_1.7.17.apk"
+        "url": "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Cisco%20Webex%20Meetings_v11.1.0_apkpure.com.apk"
     },
     {
         "type": "native",
