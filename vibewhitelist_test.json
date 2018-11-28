@@ -39,6 +39,7 @@
         "package": "com.ionitech.airscreen",
 	"packageName": "com.ionitech.airscreen",
 	"versionCode": 83,
+	"fullscreen": true,
         "url": "https://dl.vibe.us/apks/com.ionitech.airscreen/AirScreen_InLight_Release_1.7.17.apk"
     },
     {
