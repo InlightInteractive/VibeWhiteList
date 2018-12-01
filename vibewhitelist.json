@@ -9,11 +9,12 @@
     },
     {
         "type": "native",
-        "icon": "https://image.winudf.com/v2/image/dXMuem9vbS52aWRlb21lZXRpbmdzX2ljb25fMTUzNTY5MTQ1OV8wOTg/icon.png?w=170&fakeurl=1&type=.png",
+        "icon": "https://dl.vibe.us/apks/us.zoom.videomeetings/icon.png",
         "name": "ZOOM",
         "package": "us.zoom.videomeetings",
 	"packageName": "us.zoom.videomeetings",
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ZOOM%20Cloud%20Meetings_v4.1.28165.0716_apkpure.com.apk"
+	"versionCode": 41020,
+        "url": "https://dl.vibe.us/apks/us.zoom.videomeetings/us.zoom.videomeetings_4.1.34821.1119-41020_minAPI14.apk"
     },
     {
         "type": "native",
