@@ -80,8 +80,8 @@
         "name": "ZOOM",
         "package": "us.zoom.videomeetings",
 	"packageName": "us.zoom.videomeetings",
-	"versionCode": 41100,
-        "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ZOOM%20Cloud%20Meetings_v4.1.28165.0716_apkpure.com.apk"
+	"versionCode": 41020,
+        "url": "https://dl.vibe.us/apks/us.zoom.videomeetings/us.zoom.videomeetings_4.1.34821.1119-41020_minAPI14.apk"
     },
 	{
         "type": "native",
