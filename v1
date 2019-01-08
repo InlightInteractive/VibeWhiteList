@@ -1,1 +1,1 @@
-{"penMin":1,"penMax":5,"panMin":6,"panMax":8,"eraserMin":10,"eraserMax":20,"panZoomBarVisible":true}
+{"penMin":0.1,"penMax":10,"panMin":10,"panMax":30,"eraserMin":40,"eraserMax":100,"panZoomBarVisible":false}
