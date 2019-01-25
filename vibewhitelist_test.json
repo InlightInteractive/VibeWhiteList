@@ -94,7 +94,7 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLmVzdHJvbmdzLmFuZHJvaWQucG9wX2ljb25fMTUzNTYyODY4Ml8wMDc/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "ES File Explorer",
+        "name": "File Explorer",
         "package": "com.estrongs.android.pop",
 	"packageName": "com.estrongs.android.pop",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/ES%20File%20Explorer%20File%20Manager_v4.1.8.2.2_apkpure.com.apk"
@@ -182,7 +182,7 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1MzQ5OTUwNjZfMDA0/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft Word",
+        "name": "Word",
         "package": "com.microsoft.office.word",
 	"packageName": "com.microsoft.office.word",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Word_v16.0.10325.20043_apkpure.com.apk"
@@ -190,7 +190,7 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTM0OTk1MTMxXzAzNg/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft Excel",
+        "name": "Excel",
         "package": "com.microsoft.office.excel",
 	"packageName": "com.microsoft.office.excel",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20Excel_v16.0.10325.20059_apkpure.com.apk"
@@ -198,7 +198,7 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1MzUwOTM3ODNfMDg1/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft PowerPoint",
+        "name": "PowerPoint",
         "package": "com.microsoft.office.powerpoint",
 	"packageName": "com.microsoft.office.powerpoint",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20PowerPoint_v16.0.10325.20043_apkpure.com.apk"
@@ -206,7 +206,7 @@
 	{
         "type": "native",
         "icon": "https://image.winudf.com/v2/image/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub25lbm90ZV9pY29uXzE1MzQ5MTQzMDRfMDE0/icon.png?w=170&fakeurl=1&type=.png",
-        "name": "Microsoft OneNote",
+        "name": "OneNote",
         "package": "com.microsoft.office.onenote",
 	"packageName": "com.microsoft.office.onenote",
         "url": "https://raw.githubusercontent.com/InlightInteractive/VibeWhiteList/master/apks/Microsoft%20OneNote_v16.0.10325.20024_apkpure.com.apk"
